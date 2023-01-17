@@ -1,0 +1,18 @@
+.container__menu-bar > ul{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    list-style-type: none; /* remove a bolinha padrão */
+    justify-content: center;
+     
+      
+
+}
+.container__menu-bar > ul > li{
+  margin: 20px;
+  
+    content: "•"; /* adiciona um caractere */
+    /*color: red; */
+  
+  
+}

@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  color:white;
+ 
+  
+  
+  /*border-color: red; */
+
+}
+a {
+  text-decoration: none;
+}

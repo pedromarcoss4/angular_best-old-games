@@ -1,0 +1,11 @@
+.container_menu-title{
+  color: blanchedalmond;
+}
+
+.container_menu-title > h1{
+  margin: 15px;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+}
+
