@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
+ photoCover:string=""
+ contentTitle:string=""
+ contentDescription:string=""
 
+ constructor (){ }
 }

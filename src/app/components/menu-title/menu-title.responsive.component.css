@@ -1,0 +1,15 @@
+.container_menu-title{
+  color: blanchedalmond;
+}
+
+@media (max-width:700px){
+  
+
+.container_menu-title > h1{
+  margin: 15px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  
+}
+}
